@@ -26,7 +26,13 @@ Les données utilisé pour ce mémoire sont des fichier .csv (sep ";"). On retro
 - **R_Boutures_Conductance.csv** : données de conductance des différentes solutions de bouturages.
 
 ---
-## Macro_Image_J
+## Macro Image J
 
-- **Pistil_Stamen_Length.ijm** : Macro Image J (Fiji) utilisé pour calculer la longuer des pitsils et étamines.
+- **Pistil_Stamen_Length.ijm** : Macro Image J (Fiji) utilisée pour calculer la longuer des pitsils et étamines.
+
+----
+## Code R
+
+L'ensemble du code R utilisé pour ce mémoire est rassemblé dans le fichier : **code_memoire.R**
+
 
