@@ -21,7 +21,7 @@ Les données utilisé pour ce mémoire sont des fichier .csv (sep ";"). On retro
 - **R_Exertion.csv** : données de morphologie florale des différents individus de *S.chilense*.
 - **R_Croisements.csv** : données des croisements (nombre de croisements réalisés, nombre de fruit, etc.) entres différents individus de *S.chilense*.
 - **R_Graine.csv** : données des croisements (nombre de graines par fruit, nombre de graine totale, etc.) entres différents individus de *S.chilense*.
-- **_qPCR.csv** : données d'expression relative des gènes calculé par qPCR des différents individus de *S.chilense*.
+- **R_qPCR.csv** : données d'expression relative des gènes calculé par qPCR des différents individus de *S.chilense*.
 - **R_Boutures_Racine.csv** : données d'analyse du développement racinaire sur différentes individus de *S.chilense* dans différentes solutions de boutruages.
 - **R_Boutures_Conductance.csv** : données de conductance des différentes solutions de bouturages.
 
