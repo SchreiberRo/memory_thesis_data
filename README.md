@@ -1,7 +1,7 @@
 # Donneés, codes et macros du Mémoire de Robin Schreiber.
-Biologie des organismes et ecologie - UCLouvain
+Biologie des organismes et ecologie - UCLouvain - UNamur
 
-Titre : Etude des barrirere de reproduction intraspecfique chez une espece de tomate sauvage Solanum Chilense
+## Etude des barrirere de reproduction intraspecfique chez une espece de tomate sauvage Solanum Chilense
 
 Promoteur : Muriel Quinet - Encadrant : Pauline Moreels
 
