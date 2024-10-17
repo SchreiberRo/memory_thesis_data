@@ -28,7 +28,7 @@ Les données brutes ont été encodé sur Microsoft Excel. Chaque fichier contie
 - **Pistil_Stamen_Length.ijm** : Macro Image J (Fiji) utilisée pour calculer la longuer des pitsils et étamines.
 
 ---
-## Donnée_CSV
+## Données_CSV
 
 Les données utilisé sur R pour ce mémoire sont des fichier .csv (sep ";"). On retrouve :
 - **R_Exertion.csv** : données de morphologie florale des différents individus de *S.chilense*.
