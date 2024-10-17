@@ -21,6 +21,7 @@ Earth Life Institut A - Groupe de recherche en physiologie vegetale
 Les données brutes ont été encodé sur Microsoft Excel. Chaque fichier contient une feuille README.
 
 - **Morphologie_florale.xlsx** : données de morphologie florale des différents individus de *S.chilense*.
+- **Croisement_Fruit_Graine.xlsx** : données des croisements (nombre de croisements réalisés, nombre de fruit, nombre de graines.) entres différents individus de *S.chilense*.
 - 
 ---
 ## Macro_Image_J
