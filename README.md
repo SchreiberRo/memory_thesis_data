@@ -18,7 +18,7 @@ Earth Life Institut A - Groupe de recherche en physiologie vegetale
 ---
 ## Données_Excel
 
-Les données brutes ont été encodé sur Microsoft Excel. Chaque fichier contient une feuille README.
+Les données brutes ont été encodé sur Microsoft Excel. Chaque fichiers contient une feuille README.
 
 - **Morphologie_florale.xlsx** : données de morphologie florale des différents individus de *S.chilense*. Ce fichier contient la feuille R_Exertion.
 - **Croisement_Fruit_Graine.xlsx** : données des croisements (nombre de croisements réalisés, nombre de fruit, nombre de graines.) entres différents individus de *S.chilense*. Ce fichier contient les feuilles R_Croisements et R_Graine.
@@ -31,7 +31,7 @@ Les données brutes ont été encodé sur Microsoft Excel. Chaque fichier contie
 ---
 ## Données_CSV
 
-Les données utilisé sur R pour ce mémoire sont des fichier .csv (sep ";"). Ce sont les feuilles ***R_*** des fichier .xlsx. :
+Les données utilisé sur R pour ce mémoire sont des fichiers .csv (sep ";"). Ce sont les feuilles ***R_*** des fichier .xlsx. :
 - **R_Exertion.csv** : données de morphologie florale des différents individus de *S.chilense*.
 - **R_Croisements.csv** : données des croisements (nombre de croisements réalisés, nombre de fruit, etc.) entres différents individus de *S.chilense*.
 - **R_Graine.csv** : données des croisements (nombre de graines par fruit, nombre de graine totale, etc.) entres différents individus de *S.chilense*.
@@ -43,6 +43,6 @@ Les données utilisé sur R pour ce mémoire sont des fichier .csv (sep ";"). Ce
 ----
 ## Code_R
 
-L'ensemble du code R utilisé pour ce mémoire est rassemblé dans le fichier : **code_memoire.R**
+L'ensemble du code R utilisé pour ce mémoire est rassemblé dans le fichier : **Code_memoire.R**
 
 
