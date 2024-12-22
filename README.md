@@ -40,7 +40,7 @@ Les données utilisé sur R pour ce mémoire sont des fichiers .csv (sep ";"). C
 - **R_qPCR.csv** : données d'expression relative des gènes calculé par qPCR des différents individus de *S.chilense*.
 - **R_Boutures_Racine.csv** : données d'analyse du développement racinaire sur différentes individus de *S.chilense* dans différentes solutions de boutruages.
 - **R_Boutures_Conductance.csv** : données de conductance des différentes solutions de bouturages.
-- **Data_all.rda** : compilations des données récoltés, pour l'analysé combinée (voir ACP Discussion - Objectif 1)
+- **R_Data_all.rda** : compilations des données récoltés, pour l'analysé combinée (voir ACP Discussion - Objectif 1)
 
 ----
 ## Code_R
