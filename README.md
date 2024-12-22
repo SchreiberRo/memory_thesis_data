@@ -12,7 +12,7 @@ Earth Life Institut A - Groupe de recherche en physiologie vegetale
 
 - [Données Excel](#Données_Excel)
 - [Macro Image J](#Macro_image_J)
-- [Données CSV](#Données_CSV)
+- [Données_CSV_/_rda](#Données_CSV_/_rda)
 - [Code R](#Code_R)
   
 ---
@@ -30,7 +30,7 @@ Les données brutes ont été encodé sur Microsoft Excel. Chaque fichiers conti
 - **Pistil_Stamen_Length.ijm** : Macro Image J (Fiji) utilisée pour calculer la longuer des pitsils et étamines.
 
 ---
-## Données_CSV
+## Données_CSV_/_rda
 
 Les données utilisé sur R pour ce mémoire sont des fichiers .csv (sep ";"). Ce sont les feuilles ***R_*** des fichier .xlsx. :
 - **R_Exertion.csv** : données de morphologie florale des différents individus de *S.chilense*.
@@ -40,7 +40,7 @@ Les données utilisé sur R pour ce mémoire sont des fichiers .csv (sep ";"). C
 - **R_qPCR.csv** : données d'expression relative des gènes calculé par qPCR des différents individus de *S.chilense*.
 - **R_Boutures_Racine.csv** : données d'analyse du développement racinaire sur différentes individus de *S.chilense* dans différentes solutions de boutruages.
 - **R_Boutures_Conductance.csv** : données de conductance des différentes solutions de bouturages.
-
+- **Data_all.rda** : compilations des données récoltés, pour l'analysé combinée (voir ACP Discussion - Objectif 1)
 
 ----
 ## Code_R
