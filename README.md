@@ -24,6 +24,7 @@ Les données brutes ont été encodé sur Microsoft Excel. Chaque fichiers conti
 - **Croisement_Fruit_Graine.xlsx** : données des croisements (nombre de croisements réalisés, nombre de fruit, nombre de graines.) entres différents individus de *S.chilense*. Ce fichier contient les feuilles R_Croisements et R_Graine.
 - **Croisement_TP.xlsx** : données des six croisements individus de *S.chilense*, avec les nombre de pollen et le nombre de tubes polliniques dans les différents parties du style. Ce fichier contient la feuille R_Tube_polli.
 - **Boutures.xlsx** : données d'analyse de développement racinaire de différents individus de *S.chilense* dans différentes solutions de boutruages et données de condutances de solutions. Ce fichier contient les feuilles R_Boutures_Racine et R_Boutures_Conductance
+- *S_allele.xlsx** : données des S-allèles et donnée théoriques sur le pourcentage de tubes polliniques atteignant l'ovaire, et taux de mise à fruit, en fonction des situations des S-allèles. Ce fichier contient les feuilles R_S_allele, R_S_allele_the
 ---
 ## Macro_Image_J
 
