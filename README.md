@@ -24,7 +24,7 @@ Les données brutes ont été encodé sur Microsoft Excel. Chaque fichiers conti
 - **Croisement_Fruit_Graine.xlsx** : données des croisements (nombre de croisements réalisés, nombre de fruit, nombre de graines.) entres différents individus de *S.chilense*. Ce fichier contient les feuilles R_Croisements et R_Graine.
 - **Croisement_TP.xlsx** : données des six croisements individus de *S.chilense*, avec les nombre de pollen et le nombre de tubes polliniques dans les différents parties du style. Ce fichier contient la feuille R_Tube_polli.
 - **Boutures.xlsx** : données d'analyse de développement racinaire de différents individus de *S.chilense* dans différentes solutions de boutruages et données de condutances de solutions. Ce fichier contient les feuilles R_Boutures_Racine et R_Boutures_Conductance
-- *S_allele.xlsx** : données des S-allèles et donnée théoriques sur le pourcentage de tubes polliniques atteignant l'ovaire, et taux de mise à fruit, en fonction des situations des S-allèles. Ce fichier contient les feuilles R_S_allele, R_S_allele_the
+- **S_allele.xlsx** : données des S-allèles et donnée théoriques sur le pourcentage de tubes polliniques atteignant l'ovaire, et taux de mise à fruit, en fonction des situations des S-allèles. Ce fichier contient les feuilles R_S_allele, R_S_allele_the
 ---
 ## Macro_Image_J
 
@@ -41,6 +41,9 @@ Les données utilisé sur R pour ce mémoire sont des fichiers .csv (sep ";"). C
 - **R_qPCR.csv** : données d'expression relative des gènes calculé par qPCR des différents individus de *S.chilense*.
 - **R_Boutures_Racine.csv** : données d'analyse du développement racinaire sur différentes individus de *S.chilense* dans différentes solutions de boutruages.
 - **R_Boutures_Conductance.csv** : données de conductance des différentes solutions de bouturages.
+- **R_S_allele** : données de présence / absencs des S-allèles des invdividus de *S. chilense*
+- **R_S_allele_theory** : données théorique de la compatibtilité au niveau de la croissances des tubes polliniques et du taux de mise à fruit
+- **R_Ind_S** : données des S-allèles des individus de *S. chilense*
 - **R_Data_all.rda** : compilations des données récoltés, pour l'analysé combinée (voir ACP Discussion - Objectif 1)
 
 ----
